@@ -1,6 +1,5 @@
 ## 👥 Roles and Responsibilities
 
-### Main
 - **Utsav Singhal**: Director of Machine Learning
   - 🧠 Project Oversight: Oversee the overall progress and direction of the project.
   - 🤖 Model Development: Lead the design and development of predictive models.
