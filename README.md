@@ -16,6 +16,7 @@
 
 ---
 
+<a name="project-overview"></a>
 ## 📋 Project Overview
 
 ### Introduction
@@ -23,6 +24,7 @@ Welcome to the Predictive Analytics Tools project! This project aims to develop 
 
 ---
 
+<a name="key-features"></a>
 ## 🌟 Key Features
 - **📈 Trend Prediction**: Utilize historical data to forecast future trends and patterns.
 - **🔗 Data Integration**: Aggregate data from multiple sources for comprehensive analysis.
@@ -32,6 +34,7 @@ Welcome to the Predictive Analytics Tools project! This project aims to develop 
 
 ---
 
+<a name="project-components"></a>
 ## 🔧 Project Components
 
 ### 1. Data Collection
@@ -55,6 +58,7 @@ Welcome to the Predictive Analytics Tools project! This project aims to develop 
 
 ---
 
+<a name="technical-challenges"></a>
 ## 🚧 Technical Challenges
 
 ### 1. Data Variety
@@ -75,6 +79,7 @@ Welcome to the Predictive Analytics Tools project! This project aims to develop 
 
 ---
 
+<a name="impact-opportunities"></a>
 ## 📈 Impact Opportunities
 
 ### 1. Improved Business Strategies
@@ -95,6 +100,7 @@ Welcome to the Predictive Analytics Tools project! This project aims to develop 
 
 ---
 
+<a name="usage"></a>
 ### 🔍 Usage
 
 1. **Data Collection**
@@ -112,18 +118,21 @@ Welcome to the Predictive Analytics Tools project! This project aims to develop 
 
 ---
 
+<a name="contributing"></a>
 ## 🤝 Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ---
 
+<a name="license"></a>
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
+<a name="contact"></a>
 ## 📧 Contact
 
 For any questions or suggestions, please contact us at [utsavsinghal26@gmail.com](mailto:utsavsinghal26@gmail.com).
